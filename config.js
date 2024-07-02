@@ -11,20 +11,20 @@ global.botnumber = "201016948771"
 global.confirmCode = ""
 
 global.owner = [
-  ['201225655220', '👑 𝑬𝐿𝑻𝑨𝑹𝑩𝑶𝑶︎ 👑', true],
-  ['201225655220'], 
-  ['201225655220']
+  ['201129003230', '👑 𝐏𝐀𝐁𝐋𝐎⦖🇵🇸 👑', true],
+  ['201129003230'], 
+  ['201129003230']
 ];
 
-global.suittag = ['201225655220'];
-global.prems = ['201225655220'];
+global.suittag = ['201129003230'];
+global.prems = ['201129003230'];
 
 global.packname = 'Sticker';
-global.author = '𝘉𝘖𝘛_𝘛𝘈𝘙𝘉𝘖𝘖';
-global.wm = '𝘉𝘖𝘛_𝘛𝘈𝘙𝘉𝘖𝘖';
-global.titulowm = '𝘉𝘖𝘛_𝘛𝘈𝘙𝘉𝘖𝘖';
-global.titulowm2 = `𝘉𝘖𝘛_𝘛𝘈𝘙𝘉𝘖𝘖`
-global.igfg = '𝘉𝘖𝘛_𝘛𝘈𝘙𝘉𝘖𝘖';
+global.author = '𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓';
+global.wm = '𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓';
+global.titulowm = '𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓';
+global.titulowm2 = `𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓`
+global.igfg = '𝐒𝐏𝐄𝐄𝐃 𝐁𝐎𝐓';
 global.wait = '*استني يكلاون🤡*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -57,7 +57,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*استني يكلاون🤡*';
 global.waittt = '*استني يكلاون🤡*';
 global.waitttt = '*استني يكلاون🤡*';
-global.nomorown = '201225655220';
+global.nomorown = '201129003230';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
