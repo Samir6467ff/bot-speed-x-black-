@@ -4,8 +4,8 @@ let handler = async (m, { conn }) => {
     // إذا لم يكن هناك sticker وكان المحادثة في مجموعة، قم بإلقاء استثناء
     if (!db.data.chats[m.chat].stickers && m.isGroup) throw 0
  
-    let nombre = '201277272498'
-    let nombre2 = '201277272498'
+    let nombre = '201129003230'
+    let nombre2 = '201129003230'
  
     const s = [
         'https://telegra.ph/file/581e6160af36def7872da.png',
@@ -28,7 +28,7 @@ let handler = async (m, { conn }) => {
 }
 
 // يحدد الكود كيفية استجابة الروبوت على الرسائل التي تبدأ بكلمة يوهان
-handler.customPrefix = /^محمود|تربو|الـتربـو$/i 
+handler.customPrefix = /^سمير|boss|بوص|بوس$/i 
 handler.command = new RegExp
 handler.exp = 50
 export default handler
